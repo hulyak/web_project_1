@@ -284,7 +284,7 @@
 }
 
 .kaufman__title_margin {
-    margin: 90px auto 0;
+    margin: 90px auto 20px;
 }
 
 .kaufman__subtitle {
@@ -296,7 +296,7 @@
 }
 
 .kaufman__subtitle_margin {
-    margin: 20px auto 80px;
+    margin: 0 auto;
 }
 
 .kaufman-table_space {
