@@ -10,9 +10,6 @@
 }
 
 
-/* parameters for the header section */
-
-
 /* dimension of the logo */
 
 .logo {
@@ -29,6 +26,9 @@
     left: 64px;
     z-index: 3;
 }
+
+
+/* parameters for the header section */
 
 .header {
     height: 100vh;
@@ -215,7 +215,6 @@
     font-size: 18px;
     font-weight: normal;
     padding-bottom: 20px;
-    margin: 0;
 }
 
 .table__text_theme_dark {
@@ -287,8 +286,7 @@
     position: absolute;
     top: 0;
     right: -124px;
-    z-index: 1;
-    overflow: hidden;
+    z-index: 0;
 }
 
 
