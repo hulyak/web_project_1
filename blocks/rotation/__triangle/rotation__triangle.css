@@ -2,5 +2,5 @@
 
 .rotation__triangle {
   transform: rotate(30deg);
-  /* animation: rotation 20s infinite; */
+  animation: rotation 20s infinite;
 }

@@ -1,5 +1,5 @@
 .khan__book-pic {
-  max-width: 620px;
-  height: 608px;
   padding-right: 48px;
+  max-width: 620px;
+  clip-path: inset(0 0 200px 0);
 }
