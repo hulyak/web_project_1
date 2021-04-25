@@ -1,6 +1,0 @@
-@import url(../rotation.css);
-
-.rotation__triangle {
-  transform: rotate(30deg);
-  animation: rotation 20s infinite;
-}

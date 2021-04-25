@@ -1,6 +1,11 @@
 @import url(./__square/rotation__square.css);
 @import url(./__triangle/rotation__triangle.css);
 
+.rotation {
+  transform: rotate(-15deg);
+  animation: rotation 20s infinite;
+}
+
 @keyframes rotation {
   from {
     transform: rotate(0deg);
