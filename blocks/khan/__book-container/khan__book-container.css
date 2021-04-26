@@ -3,4 +3,6 @@
   flex-wrap: wrap;
   align-items: flex-start;
   padding-top: 68px;
+  position: relative;
+  overflow: hidden;
 }
