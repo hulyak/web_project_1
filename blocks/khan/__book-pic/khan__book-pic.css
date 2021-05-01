@@ -4,6 +4,6 @@
   /* clip-path: inset(0 0 340px 0); */
   height: 608px;
   object-fit: cover;
-  margin-top: -10px;
-  object-position: 0 10px;
+  object-position: top;
+  margin: 0 48px 0 0;
 }

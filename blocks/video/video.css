@@ -2,6 +2,5 @@
 @import url(./__iframe/video__iframe.css);
 
 .video {
-  /* padding-top: 100px; */
-  transform: translateY(70px);
+  padding-top: 100px;
 }
